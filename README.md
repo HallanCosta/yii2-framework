@@ -49,6 +49,9 @@ foreign key (created_by) references user (id);
 
 ## Composer
 - Install dependences from composer
+```
+composer install --prefer-dist
+```
 
 ## Virutal host
 Define folder <b>web </b> to run virtualhost <b>yii2.test</b>

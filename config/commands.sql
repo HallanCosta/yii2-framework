@@ -1,4 +1,4 @@
-CREATE TABLE `user`
+CREATE TABLE user
 (
   id int auto_increment,
   username varchar(55) not null,
